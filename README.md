@@ -1,4 +1,4 @@
-# ???
+# What is dnSpy
 
 dnSpy is a tool to reverse engineer .NET assemblies. It includes a decompiler, a debugger and an assembly editor (and more) and can be easily extended by writing your own extension. It uses [dnlib](https://github.com/0xd4d/dnlib) to read and write assemblies so it can handle obfuscated assemblies (eg. malware) without crashing.
 
